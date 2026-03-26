@@ -24,9 +24,9 @@ Designed to help implementation managers quickly understand:
 * Tailwind CSS
 * Recharts
 
-## 📸 Preview
+## 📸 Screenshot
 
-(Add screenshots later)
+![Dashboard](public/screenshots/launch-track-dashboard.png)
 
 ## 🧠 Note
 
